@@ -11,7 +11,7 @@ This extension is designed for Cocos Creator users to integrate the Google Mobil
 中文版请查看 [文档](./extensions/GoogleAdMob/doc/zh/index.md)。
 
 For the English version please refer to [Document](./extensions/GoogleAdMob/doc/en/index.md)。
-
+详细使用步骤：https://juejin.cn/post/7538734024836988974
 ## 支持的广告类型/Supported Advertisement Types
 
 - Banner
